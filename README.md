@@ -1,6 +1,6 @@
 
   <div align="left">
-    <img height="40px" src=".github/logo.png"></img>
+    <img height="40px" src=""></img>
     <h1>bloxion (on Orbit)</h1>
   </div>
   <ul>
